@@ -1,8 +1,0 @@
-name: climate
-channels:
-  - bioconda
-dependencies:
-  - python=3.6
-  - jupyter
-  - seaborn
-  - matplotlib
